@@ -1,4 +1,7 @@
 node_modules
+tmp/*
+!.gitkeep
+
 # Keep environment variables out of version control
 .env
 *.db
